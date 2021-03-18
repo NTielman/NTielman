@@ -6,7 +6,7 @@
 - 🎨 Passionate about effects & animations, intuitive UI and creating dynamic user experiences
 - 📚 Currently learning: GSAP, Three.js
 - 🔎 Looking for new opportunities
-- 📫 How to reach me ...
+- 📫 Feel free to say hi at: khalienne@gmail.com
 
 
 
