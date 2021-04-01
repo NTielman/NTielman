@@ -8,6 +8,7 @@
 - 🔎 Looking for new opportunities
 - 📫 Feel free to say hi at: khalienne@gmail.com
 
+## 🎊 Check out my porfolio website: <https://ntielman.github.io/Portfolio/> 🎊
 
 
  
